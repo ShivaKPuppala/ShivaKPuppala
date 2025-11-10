@@ -15,7 +15,7 @@ My work spans across **robotics, AI/ML, and cloud automation**, integrating tech
 
 | **Project** | **Category** | **Domain / Focus Area** | **Tech Stack** |
 |--------------|--------------|--------------------------|----------------|
-| 🎓 [**Master_Thesis**](https://github.com/ShivaKPuppala/DepthEstimation_MachineVision_ROS) |Research|Robotics, 6D Grasp Pose Estimation, Point Cloud, Python, ROS2, OpenCV, Open3D, Machine Learning,    |
+| 🎓 [**Master_Thesis**](https://github.com/ShivaKPuppala/DepthEstimation_MachineVision_ROS) |Research| Robotics, 6D Grasp Pose Estimation, Depth Estimation using TOF Camera| Segmentation, Point Cloud, Python, ROS2, OpenCV, Open3D, Machine Learning,    |
 | 🏍️ [**MotoInspect**](https://github.com/ShivaKPuppala/MotoInspect) | Core Robotics Project | AI-driven motorcycle assembly inspection | Python, AWS IoT Core, Lambda, Rekognition, MQTT, Raspberry Pi, OpenCV |
 | 🌾 [**AgriBot**](https://github.com/ShivaKPuppala/AgriBot) | Core Robotics Project | Smart modular agricultural robot for soil testing, spraying & disease detection | ROS, TensorFlow Lite, ESP32, DHT11, pH Sensors, AWS IoT, Flutter |
 | 🎥 [**3D Robot Camera**](https://github.com/ShivaKPuppala/3D-Robot-Camera) | Core Robotics Component | Multi-camera 360° robotic vision system | Raspberry Pi 4, OpenCV, CAD (SolidWorks), Python |
