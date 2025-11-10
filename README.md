@@ -20,11 +20,12 @@ My work spans across **robotics, AI/ML, and cloud automation**, integrating tech
 | 🌾 [**AgriBot**](https://github.com/ShivaKPuppala/AgriBot) | Core Robotics Project | Smart modular agricultural robot for soil testing, spraying & disease detection | ROS, TensorFlow Lite, ESP32, DHT11, pH Sensors, AWS IoT, Flutter |
 | 🎥 [**3D Robot Camera**](https://github.com/ShivaKPuppala/3D-Robot-Camera) | Core Robotics Component | Multi-camera 360° robotic vision system | Raspberry Pi 4, OpenCV, CAD (SolidWorks), Python |
 | 🤖 [**AI Fault Detection**](https://github.com/ShivaKPuppala/AI-Fault-Detection) | ML / Vision Module | Image-based fault classification for assembly lines | TensorFlow, Keras, AWS Lambda, S3, NumPy, Pandas |
-| 🚗 [**B.Tech Final Year Project**](https://github.com/ShivaKPuppala/Bachelor-FinalYear-Project) | Academic Research | Smart obstacle detection vehicle | Arduino UNO, Ultrasonic Sensor, IR Sensor, Embedded C, SolidWorks |
+| 🧪 B.Tech Final Year Project
+ | Academic Research | Performance Assessment of Additive-Based Vegetable Oils as Cutting Fluids in Machining | EN8 Steel, PSG-124 Lathe, MQL, Coconut & Sunflower Oils, Maize Starch Additive, Thermal & Tribological Testing |
 | 🚦 [**Traffic Sign Detection**](https://github.com/ShivaKPuppala/Traffic-Sign-Detection) | AI/ML Project | Intelligent transportation system using CNN | TensorFlow, Keras, OpenCV, Python, GTSRB Dataset |
 | 🧠 [**Brain Tumor Imaging**](https://github.com/ShivaKPuppala/Brain-Tumor-Imaging) | AI/ML Project | Deep learning-based MRI tumor classification | TensorFlow, Keras, OpenCV, NumPy, Matplotlib |
 | 💼 [**Product Management Case Studies**](https://github.com/ShivaKPuppala/Product-Management-CaseStudies) | Product / Strategy | Business model design & value proposition frameworks | Canva, Notion, Excel, LaTeX |
-| 🏅 [**Certifications**](https://github.com/ShivaKPuppala/Certifications) | Learning & Achievements | Robotics, Cloud, AI/ML, Product Management credentials | AWS, TensorFlow, Coursera, PGP-PM |
+| 🏅 [**Certifications**](https://github.com/ShivaKPuppala/Certifications) | Learning & Achievements | Robotics, Cloud, AI/ML, Product Management credentials, Programming,CAD | ROS/ROS2, TensorFlow, ML, PG-PM,python, GenAI, |
 
 ---
 
